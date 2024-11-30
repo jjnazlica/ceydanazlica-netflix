@@ -2,17 +2,17 @@
 
 ## Overview
 
-This project aims to analyze my own Netflix viewing history data to extract insights about viewing patterns, including the series watched, season and episode information, as well as the overall viewing behavior. The dataset used for this analysis contains information about titles watched, dates, and other metadata related to Netflix usage. 
+This project aims to analyze my own Netflix viewing history data to extract insights about my viewing patterns, including the series watched, season and episode information, as well as the overall viewing behavior based on the seasons and my mood.The dataset used for this analysis contains information about titles watched, dates, and other metadata related to Netflix usage. 
 
-The objective is to clean, process, and visualize the data to explore trends and patterns in the viewing history.
+The objective is to clean, process, and visualize the data to explore trends and patterns in the viewing history and see if my viewing history has a trend related with seasons in the year.
 
 ## Motivation
 
-The motivation for this project is to gain insights into personal viewing habits on Netflix, focusing on:
+The motivation for this project is to gain insights on my personal viewing habits on Netflix, focusing on:
 - Identifying the most-watched series and episodes.
 - Analyzing the frequency of watching specific seasons and episodes.
 - Detecting trends and preferences in Netflix content consumption.
-- Exploring how viewing habits may have changed over time.
+- Exploring how viewing habits may have changed over seasons.
 
 ## Data Source
 
