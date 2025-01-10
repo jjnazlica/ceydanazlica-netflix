@@ -1,0 +1,116 @@
+Loading Netflix viewing history data...
+Raw data columns: Title, Date
+Data preprocessing completed successfully.
+Columns in processed data: Date, Series, Season, Episode, Year, Month, Day, Weekday
+Loaded 2201 viewing records
+
+Running analyses...
+
+Detailed Series Statistics:
+Total unique series: 199
+Average gap between episodes (overall): 97.4 days
+
+Top 5 Series with Shortest Viewing Gaps:
+Chicago Med                    1
+Sugar Rush                     1
+Suits                          2
+How to Get Away With Murder    2
+The Gift                       2
+dtype: int64
+
+Key Insights:
+Weekend vs Weekday viewing difference p-value: 0.6173
+
+Binge Watching Patterns:
+Percentage of binge days: 65.0%
+Average views on binge days: 5.5
+
+Series vs Movies:
+Series watching percentage: 93.8%
+Series on weekends: 95.5%
+Series on weekdays: 93.1%
+
+Trend Analysis:
+Overall trend slope: 0.12 views per month
+R-squared value: 0.029
+Trend p-value: 0.1061
+
+Saving visualizations...
+
+Detailed Series Statistics:
+Total unique series: 199
+Average gap between episodes (overall): 97.4 days
+
+Top 5 Series with Shortest Viewing Gaps:
+Chicago Med                    1
+Sugar Rush                     1
+Suits                          2
+How to Get Away With Murder    2
+The Gift                       2
+dtype: int64
+
+Key Insights:
+Weekend vs Weekday viewing difference p-value: 0.6173
+
+Binge Watching Patterns:
+Percentage of binge days: 65.0%
+Average views on binge days: 5.5
+
+Series vs Movies:
+Series watching percentage: 93.8%
+Series on weekends: 95.5%
+Series on weekdays: 93.1%
+
+Trend Analysis:
+Overall trend slope: 0.12 views per month
+R-squared value: 0.029
+Trend p-value: 0.1061
+All visualizations have been saved as separate PNG files.
+
+==================================================
+DETAILED NETFLIX VIEWING ANALYSIS
+==================================================
+
+Basic Statistics:
+Total viewing entries: 2,201
+Date range: 2016-01-19 00:00:00 to 2024-12-08 00:00:00
+
+Content Distribution:
+Series: 2,064 (93.8%)
+Movie: 137 (6.2%)
+
+Unique series watched: 199
+
+Top 5 Most Watched Series:
+- Modern Family: 222 episodes
+- How I Met Your Mother: 208 episodes
+- That '70s Show: 196 episodes
+- Gilmore Girls: 153 episodes
+- Gossip Girl: 121 episodes
+
+Top 3 Binge-Watched Series:
+- Modern Family: 173 binge sessions
+- That '70s Show: 172 binge sessions
+- How I Met Your Mother: 117 binge sessions
+
+Most Active Viewing Season: Fall
+
+Viewing Trends:
+Overall trend: 0.12 views per month
+Trend significance (p-value): 0.1061
+Model fit (R-squared): 0.029
+
+Holiday Viewing Patterns:
+Views on holidays: 47
+Views on non-holidays: 2,154
+
+Top 3 Holiday Viewing Days:
+- Eid al-Adha (2020-08-01): 9 views
+- Eid al-Fitr (2020-05-26): 6 views
+- Labour and Solidarity Day (2021-05-01): 3 views
+
+Trend Decomposition Analysis:
+Trend strength (R²): 0.028
+Seasonal pattern detected: No
+
+Analysis complete!
